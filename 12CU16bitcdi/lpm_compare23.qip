@@ -1,0 +1,6 @@
+set_global_assignment -name IP_TOOL_NAME "LPM_COMPARE"
+set_global_assignment -name IP_TOOL_VERSION "8.1"
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "lpm_compare23.tdf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "lpm_compare23.bsf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "lpm_compare23_inst.tdf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "lpm_compare23.inc"]

@@ -1,0 +1,9 @@
+(
+	aeb_sig
+) = lpm_compare24	(
+	.clock = clock_sig,
+	.dataa[] = dataa_sig[]
+)
+RETURNS (
+	.aeb
+);

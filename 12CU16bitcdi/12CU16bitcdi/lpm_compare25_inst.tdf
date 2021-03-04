@@ -1,0 +1,8 @@
+(
+	aeb_sig
+) = lpm_compare25	(
+	.dataa[] = dataa_sig[]
+)
+RETURNS (
+	.aeb
+);

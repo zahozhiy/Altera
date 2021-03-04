@@ -1,0 +1,3717 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -7.678
+TNS   : -14.452
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -7.141
+TNS   : -1175.962
+
+Type  : Slow Model Setup 'inst3|altpll_component|pll|clk[0]'
+Slack : -4.574
+TNS   : -781.682
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -4.209
+TNS   : -335.623
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : -3.381
+TNS   : -301.691
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : -3.371
+TNS   : -319.337
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -2.918
+TNS   : -6.433
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -2.907
+TNS   : -5.814
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -2.872
+TNS   : -279.914
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -2.642
+TNS   : -4.172
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -2.589
+TNS   : -2.589
+
+Type  : Slow Model Setup 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -2.291
+TNS   : -4.529
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -2.285
+TNS   : -58.264
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -2.219
+TNS   : -23.960
+
+Type  : Slow Model Setup 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -2.216
+TNS   : -10.487
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -2.143
+TNS   : -9.711
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -2.030
+TNS   : -9.219
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -1.848
+TNS   : -6.546
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -1.843
+TNS   : -12.323
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -1.763
+TNS   : -11.657
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -1.728
+TNS   : -9.695
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : -1.703
+TNS   : -1.703
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -1.697
+TNS   : -593.993
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -1.688
+TNS   : -30.860
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -1.558
+TNS   : -6.201
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -1.411
+TNS   : -20.553
+
+Type  : Slow Model Setup 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -1.273
+TNS   : -5.450
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -1.265
+TNS   : -5.908
+
+Type  : Slow Model Setup 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -1.204
+TNS   : -8.586
+
+Type  : Slow Model Setup 'PUSK_W'
+Slack : -1.106
+TNS   : -2.212
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -0.885
+TNS   : -0.964
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -0.615
+TNS   : -4.213
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.612
+TNS   : -7.329
+
+Type  : Slow Model Setup 'count64_2018:inst50|59'
+Slack : -0.589
+TNS   : -0.589
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : -0.485
+TNS   : -1.517
+
+Type  : Slow Model Setup 'L2'
+Slack : -0.427
+TNS   : -1.774
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.410
+TNS   : -0.410
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : -0.392
+TNS   : -0.712
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -0.374
+TNS   : -0.466
+
+Type  : Slow Model Setup 'count64_2018:inst50|31'
+Slack : -0.256
+TNS   : -0.256
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -0.210
+TNS   : -0.348
+
+Type  : Slow Model Setup 'L0'
+Slack : -0.204
+TNS   : -1.419
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : -0.087
+TNS   : -0.087
+
+Type  : Slow Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : -0.040
+TNS   : -0.040
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : -0.029
+TNS   : -0.029
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Slow Model Setup 'RESETA'
+Slack : 0.235
+TNS   : 0.000
+
+Type  : Slow Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow Model Setup 'count64_2018:inst50|32'
+Slack : 0.528
+TNS   : 0.000
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : 1.099
+TNS   : 0.000
+
+Type  : Slow Model Setup 'inst3|altpll_component|pll|clk[2]'
+Slack : 1.570
+TNS   : 0.000
+
+Type  : Slow Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : 2.152
+TNS   : 0.000
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -8.172
+TNS   : -48.424
+
+Type  : Slow Model Hold 'RESETA'
+Slack : -7.729
+TNS   : -13.015
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -6.968
+TNS   : -1415.554
+
+Type  : Slow Model Hold 'PUSK_W'
+Slack : -6.888
+TNS   : -9.492
+
+Type  : Slow Model Hold 'inst3|altpll_component|pll|clk[0]'
+Slack : -6.503
+TNS   : -908.822
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -4.617
+TNS   : -650.432
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -4.587
+TNS   : -4.587
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -3.453
+TNS   : -11.973
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -3.343
+TNS   : -21.769
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -3.086
+TNS   : -1469.539
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -2.933
+TNS   : -2.933
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -2.847
+TNS   : -9.696
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -2.711
+TNS   : -2.711
+
+Type  : Slow Model Hold 'count64_2018:inst50|32'
+Slack : -2.589
+TNS   : -2.589
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -2.320
+TNS   : -4.238
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -2.169
+TNS   : -3.904
+
+Type  : Slow Model Hold 'count64_2018:inst50|31'
+Slack : -2.169
+TNS   : -3.614
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -2.148
+TNS   : -2.148
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -1.598
+TNS   : -1.598
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -1.522
+TNS   : -1.522
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -1.179
+TNS   : -1.924
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -0.865
+TNS   : -0.865
+
+Type  : Slow Model Hold 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.169
+TNS   : -0.169
+
+Type  : Slow Model Hold 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.057
+TNS   : -0.057
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow Model Hold 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.372
+TNS   : 0.000
+
+Type  : Slow Model Hold 'L2'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow Model Hold 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : 0.476
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.726
+TNS   : 0.000
+
+Type  : Slow Model Hold 'L0'
+Slack : 0.741
+TNS   : 0.000
+
+Type  : Slow Model Hold 'inst3|altpll_component|pll|clk[2]'
+Slack : 0.744
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : 0.751
+TNS   : 0.000
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : 0.754
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : 0.758
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : 0.763
+TNS   : 0.000
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : 0.772
+TNS   : 0.000
+
+Type  : Slow Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.774
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.821
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : 1.141
+TNS   : 0.000
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : 1.177
+TNS   : 0.000
+
+Type  : Slow Model Hold 'count64_2018:inst50|59'
+Slack : 1.323
+TNS   : 0.000
+
+Type  : Slow Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : 1.868
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : 1.982
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : 2.437
+TNS   : 0.000
+
+Type  : Slow Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : 3.323
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -8.501
+TNS   : -20.174
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -7.168
+TNS   : -114.688
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : -7.155
+TNS   : -7.155
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -7.113
+TNS   : -60.362
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : -6.163
+TNS   : -6.163
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : -6.101
+TNS   : -6.101
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : -6.013
+TNS   : -6.013
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -5.833
+TNS   : -29.165
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : -5.815
+TNS   : -11.354
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : -5.803
+TNS   : -5.982
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : -5.740
+TNS   : -5.740
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -5.396
+TNS   : -5.396
+
+Type  : Slow Model Recovery '74594:inst16|10'
+Slack : -5.183
+TNS   : -5.183
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -5.161
+TNS   : -13.043
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : -5.042
+TNS   : -5.042
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : -5.003
+TNS   : -8.314
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : -4.791
+TNS   : -4.791
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -4.790
+TNS   : -28.740
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : -4.768
+TNS   : -37.032
+
+Type  : Slow Model Recovery 'inst3|altpll_component|pll|clk[0]'
+Slack : -4.540
+TNS   : -144.125
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -4.352
+TNS   : -4.352
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -4.198
+TNS   : -59.422
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -3.879
+TNS   : -3.879
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -3.854
+TNS   : -125.772
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -3.799
+TNS   : -4.257
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -3.795
+TNS   : -14.681
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -3.635
+TNS   : -3.635
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : -3.315
+TNS   : -5.825
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -3.208
+TNS   : -52.158
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -3.063
+TNS   : -6.953
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -2.891
+TNS   : -50.586
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -2.856
+TNS   : -2.856
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -2.849
+TNS   : -2.849
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -2.824
+TNS   : -15.374
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : -2.725
+TNS   : -4.072
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : -2.705
+TNS   : -5.232
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -2.589
+TNS   : -3.984
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : -2.526
+TNS   : -2.526
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst99|inst71~1'
+Slack : -2.505
+TNS   : -2.505
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : -2.456
+TNS   : -2.456
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -2.424
+TNS   : -11.080
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -2.335
+TNS   : -2.335
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -2.315
+TNS   : -2.315
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst96|inst71~1'
+Slack : -2.285
+TNS   : -2.285
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -2.154
+TNS   : -37.901
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -2.133
+TNS   : -4.185
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : -2.089
+TNS   : -2.089
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst98|inst71~1'
+Slack : -2.049
+TNS   : -2.049
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -2.024
+TNS   : -36.176
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -1.925
+TNS   : -9.625
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -1.777
+TNS   : -1.777
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : -1.773
+TNS   : -1.773
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : -1.746
+TNS   : -2.782
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -1.725
+TNS   : -1.725
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -1.725
+TNS   : -1.725
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -1.701
+TNS   : -24.232
+
+Type  : Slow Model Recovery 'count64_2018:inst50|31'
+Slack : -1.683
+TNS   : -2.690
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -1.648
+TNS   : -5.156
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -1.641
+TNS   : -26.096
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -1.464
+TNS   : -1122.370
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : -1.432
+TNS   : -1.432
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -1.288
+TNS   : -10.386
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst97|inst71~1'
+Slack : -1.236
+TNS   : -1.236
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -1.219
+TNS   : -15.605
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -1.216
+TNS   : -1.216
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -1.159
+TNS   : -1.159
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : -1.128
+TNS   : -1.128
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : -0.834
+TNS   : -9.044
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -0.763
+TNS   : -1.499
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : -0.690
+TNS   : -6.770
+
+Type  : Slow Model Recovery 'count64_2018:inst50|32'
+Slack : -0.587
+TNS   : -0.587
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : -0.584
+TNS   : -0.584
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -0.407
+TNS   : -5.808
+
+Type  : Slow Model Recovery 'oune1f:inst44|2'
+Slack : -0.352
+TNS   : -0.352
+
+Type  : Slow Model Recovery 'PUSK_W'
+Slack : -0.334
+TNS   : -0.334
+
+Type  : Slow Model Recovery 'count64_2018:inst50|59'
+Slack : -0.324
+TNS   : -0.324
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.281
+TNS   : -0.281
+
+Type  : Slow Model Recovery 'L0'
+Slack : -0.241
+TNS   : -2.892
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : -0.136
+TNS   : -0.136
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.135
+TNS   : -0.135
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : 0.053
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'L2'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.232
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : 0.476
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.485
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'RESETA'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.518
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.608
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.611
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.615
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.633
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : 0.686
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.694
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : 0.697
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : 0.699
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'oune1f:inst48|2'
+Slack : 0.758
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : 0.928
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : 0.944
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : 0.967
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.975
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : 0.978
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : 0.979
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : 1.025
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : 1.265
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : 1.345
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'inst3|altpll_component|pll|clk[2]'
+Slack : 1.358
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 1.465
+TNS   : 0.000
+
+Type  : Slow Model Removal 'RESETA'
+Slack : -6.916
+TNS   : -24.477
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -6.326
+TNS   : -98.340
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -3.740
+TNS   : -350.536
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -3.451
+TNS   : -25.780
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -3.342
+TNS   : -728.983
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -2.982
+TNS   : -47.132
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -2.662
+TNS   : -4.711
+
+Type  : Slow Model Removal 'inst3|altpll_component|pll|clk[0]'
+Slack : -2.635
+TNS   : -230.919
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -2.402
+TNS   : -13.309
+
+Type  : Slow Model Removal 'PUSK_W'
+Slack : -2.303
+TNS   : -7.005
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -1.709
+TNS   : -4.780
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -1.515
+TNS   : -1.515
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : -1.460
+TNS   : -1.460
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -1.231
+TNS   : -1.231
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -1.161
+TNS   : -5.805
+
+Type  : Slow Model Removal 'oune1f:inst48|2'
+Slack : -1.124
+TNS   : -2.928
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : -1.111
+TNS   : -1.111
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -1.110
+TNS   : -1.110
+
+Type  : Slow Model Removal 'count64_2018:inst50|32'
+Slack : -1.057
+TNS   : -1.057
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -1.051
+TNS   : -1.951
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : -0.857
+TNS   : -1.322
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : -0.791
+TNS   : -0.791
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : -0.745
+TNS   : -0.745
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : -0.744
+TNS   : -0.744
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.741
+TNS   : -0.741
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : -0.733
+TNS   : -0.733
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -0.718
+TNS   : -0.718
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : -0.710
+TNS   : -0.710
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.709
+TNS   : -0.709
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : -0.694
+TNS   : -0.694
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -0.638
+TNS   : -0.638
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -0.619
+TNS   : -6.289
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -0.576
+TNS   : -1.556
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.547
+TNS   : -0.547
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -0.503
+TNS   : -0.503
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : -0.463
+TNS   : -0.463
+
+Type  : Slow Model Removal 'oune1f:inst44|2'
+Slack : -0.462
+TNS   : -0.462
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.460
+TNS   : -0.460
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.458
+TNS   : -0.458
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : -0.452
+TNS   : -0.452
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.444
+TNS   : -0.444
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -0.428
+TNS   : -2.568
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : -0.399
+TNS   : -0.399
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.399
+TNS   : -0.399
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.381
+TNS   : -0.381
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.377
+TNS   : -0.377
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.374
+TNS   : -0.374
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -0.294
+TNS   : -0.294
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.284
+TNS   : -0.284
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.251
+TNS   : -0.251
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -0.236
+TNS   : -3.322
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -0.165
+TNS   : -0.165
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : -0.070
+TNS   : -0.070
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : -0.028
+TNS   : -0.028
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : -0.028
+TNS   : -0.028
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : -0.027
+TNS   : -0.027
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -0.018
+TNS   : -0.018
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Slow Model Removal 'L0'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.049
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.078
+TNS   : 0.000
+
+Type  : Slow Model Removal 'L2'
+Slack : 0.079
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : 0.196
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow Model Removal 'count64_2018:inst50|31'
+Slack : 0.221
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst97|inst71~1'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.493
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : 0.543
+TNS   : 0.000
+
+Type  : Slow Model Removal 'count64_2018:inst50|59'
+Slack : 0.558
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : 0.621
+TNS   : 0.000
+
+Type  : Slow Model Removal '74594:inst16|10'
+Slack : 0.686
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst98|inst71~1'
+Slack : 0.724
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : 0.879
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.910
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : 0.913
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.972
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : 1.023
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 1.041
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 1.042
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst96|inst71~1'
+Slack : 1.048
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst99|inst71~1'
+Slack : 1.223
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 1.261
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : 1.316
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : 1.318
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : 1.379
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 1.467
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : 1.526
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : 1.581
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : 1.862
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : 1.959
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : 1.965
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 1.979
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : 2.049
+TNS   : 0.000
+
+Type  : Slow Model Removal 'inst3|altpll_component|pll|clk[2]'
+Slack : 2.406
+TNS   : 0.000
+
+Type  : Slow Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : 2.507
+TNS   : 0.000
+
+Type  : Slow Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : 2.690
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : 2.823
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : 3.112
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : 3.171
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : 3.461
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : 6.474
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : 6.747
+TNS   : 0.000
+
+Type  : Slow Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : 6.897
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -2.567
+TNS   : -1556.720
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : -2.567
+TNS   : -556.196
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -2.567
+TNS   : -556.196
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -2.567
+TNS   : -556.196
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : -2.567
+TNS   : -556.196
+
+Type  : Slow Model Minimum Pulse Width 'L0'
+Slack : -1.777
+TNS   : -25.521
+
+Type  : Slow Model Minimum Pulse Width 'L2'
+Slack : -1.777
+TNS   : -25.521
+
+Type  : Slow Model Minimum Pulse Width 'RESETA'
+Slack : -1.777
+TNS   : -12.165
+
+Type  : Slow Model Minimum Pulse Width 'PUSK_W'
+Slack : -1.777
+TNS   : -9.197
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -1.304
+TNS   : -11.524
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -0.742
+TNS   : -1837.192
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -0.742
+TNS   : -455.588
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -0.742
+TNS   : -102.396
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -0.742
+TNS   : -56.392
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -26.712
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -26.712
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -26.712
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -26.712
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.742
+TNS   : -25.228
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -0.742
+TNS   : -25.228
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -0.742
+TNS   : -25.228
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.742
+TNS   : -25.228
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -0.742
+TNS   : -23.744
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -0.742
+TNS   : -20.776
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -0.742
+TNS   : -19.292
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -0.742
+TNS   : -17.808
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -0.742
+TNS   : -14.840
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -0.742
+TNS   : -13.356
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : -0.742
+TNS   : -13.356
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -0.742
+TNS   : -10.388
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.742
+TNS   : -10.388
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -0.742
+TNS   : -10.388
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -0.742
+TNS   : -10.388
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -0.742
+TNS   : -8.904
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -0.742
+TNS   : -8.904
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -0.742
+TNS   : -7.420
+
+Type  : Slow Model Minimum Pulse Width 'oune1f:inst48|2'
+Slack : -0.742
+TNS   : -5.936
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -0.742
+TNS   : -5.936
+
+Type  : Slow Model Minimum Pulse Width 'count64_2018:inst50|31'
+Slack : -0.742
+TNS   : -4.452
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -0.742
+TNS   : -4.452
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -0.742
+TNS   : -4.452
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'count64_2018:inst50|32'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'oune1f:inst44|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -2.968
+
+Type  : Slow Model Minimum Pulse Width '74594:inst16|10'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst96|inst71~1'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst97|inst71~1'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst98|inst71~1'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst99|inst71~1'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'count64_2018:inst50|59'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : -0.742
+TNS   : -1.484
+
+Type  : Slow Model Minimum Pulse Width 'inst3|altpll_component|pll|clk[2]'
+Slack : 0.841
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'inst3|altpll_component|pll|clk[0]'
+Slack : 5.008
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width '16meg_IN'
+Slack : 31.250
+TNS   : 0.000
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -2.339
+TNS   : -4.321
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -2.166
+TNS   : -226.148
+
+Type  : Fast Model Setup 'inst3|altpll_component|pll|clk[0]'
+Slack : -1.651
+TNS   : -248.640
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -1.457
+TNS   : -81.323
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : -1.457
+TNS   : -76.911
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : -1.457
+TNS   : -70.424
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -1.457
+TNS   : -64.062
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -0.731
+TNS   : -1.462
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -0.632
+TNS   : -0.739
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -0.536
+TNS   : -1.643
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -0.378
+TNS   : -0.378
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -0.304
+TNS   : -0.304
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.298
+TNS   : -1.941
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -0.255
+TNS   : -1.300
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -0.239
+TNS   : -0.704
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -0.233
+TNS   : -0.233
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -0.222
+TNS   : -0.222
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.189
+TNS   : -1.891
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -0.162
+TNS   : -0.460
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -0.162
+TNS   : -0.162
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -0.131
+TNS   : -0.131
+
+Type  : Fast Model Setup 'PUSK_W'
+Slack : -0.109
+TNS   : -0.218
+
+Type  : Fast Model Setup 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.092
+TNS   : -0.092
+
+Type  : Fast Model Setup 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : 0.077
+TNS   : 0.000
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : 0.083
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast Model Setup 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast Model Setup 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Fast Model Setup 'RESETA'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Fast Model Setup 'count64_2018:inst50|59'
+Slack : 0.475
+TNS   : 0.000
+
+Type  : Fast Model Setup 'L2'
+Slack : 0.492
+TNS   : 0.000
+
+Type  : Fast Model Setup 'count64_2018:inst50|32'
+Slack : 0.514
+TNS   : 0.000
+
+Type  : Fast Model Setup 'count64_2018:inst50|31'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : 0.531
+TNS   : 0.000
+
+Type  : Fast Model Setup 'L0'
+Slack : 0.544
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.595
+TNS   : 0.000
+
+Type  : Fast Model Setup 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.625
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : 0.630
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.654
+TNS   : 0.000
+
+Type  : Fast Model Setup 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.751
+TNS   : 0.000
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : 0.776
+TNS   : 0.000
+
+Type  : Fast Model Setup 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : 1.116
+TNS   : 0.000
+
+Type  : Fast Model Setup 'inst3|altpll_component|pll|clk[2]'
+Slack : 3.262
+TNS   : 0.000
+
+Type  : Fast Model Hold 'RESETA'
+Slack : -2.764
+TNS   : -4.674
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -2.637
+TNS   : -559.532
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -2.628
+TNS   : -13.859
+
+Type  : Fast Model Hold 'PUSK_W'
+Slack : -2.490
+TNS   : -2.852
+
+Type  : Fast Model Hold 'inst3|altpll_component|pll|clk[0]'
+Slack : -1.948
+TNS   : -306.103
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -1.886
+TNS   : -200.262
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -1.594
+TNS   : -1.594
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -1.378
+TNS   : -915.701
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -1.168
+TNS   : -4.256
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -1.117
+TNS   : -7.461
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -1.047
+TNS   : -3.436
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -1.038
+TNS   : -1.038
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.938
+TNS   : -0.938
+
+Type  : Fast Model Hold 'count64_2018:inst50|32'
+Slack : -0.908
+TNS   : -0.908
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -0.846
+TNS   : -1.582
+
+Type  : Fast Model Hold 'count64_2018:inst50|31'
+Slack : -0.813
+TNS   : -1.401
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -0.809
+TNS   : -0.809
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -0.791
+TNS   : -1.452
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.615
+TNS   : -0.615
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -0.582
+TNS   : -0.582
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -0.532
+TNS   : -0.934
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -0.396
+TNS   : -0.396
+
+Type  : Fast Model Hold 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.266
+TNS   : -0.266
+
+Type  : Fast Model Hold 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.254
+TNS   : -0.254
+
+Type  : Fast Model Hold 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.213
+TNS   : -0.213
+
+Type  : Fast Model Hold 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.143
+TNS   : -0.143
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : 0.029
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.129
+TNS   : 0.000
+
+Type  : Fast Model Hold 'L2'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Fast Model Hold 'L0'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast Model Hold 'inst3|altpll_component|pll|clk[2]'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast Model Hold 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.255
+TNS   : 0.000
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast Model Hold 'count64_2018:inst50|59'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : 0.525
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : 0.552
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : 0.675
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : 0.754
+TNS   : 0.000
+
+Type  : Fast Model Hold 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : 0.936
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : 0.979
+TNS   : 0.000
+
+Type  : Fast Model Hold 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : 1.011
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -2.217
+TNS   : -18.975
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -2.102
+TNS   : -5.073
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : -2.071
+TNS   : -2.071
+
+Type  : Fast Model Recovery 'inst3|altpll_component|pll|clk[0]'
+Slack : -1.875
+TNS   : -64.537
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : -1.805
+TNS   : -1.805
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : -1.785
+TNS   : -3.460
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -1.771
+TNS   : -8.855
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : -1.736
+TNS   : -1.736
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -1.735
+TNS   : -27.760
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : -1.715
+TNS   : -1.715
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -1.671
+TNS   : -1.671
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : -1.631
+TNS   : -1.631
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -1.612
+TNS   : -4.054
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : -1.579
+TNS   : -1.579
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : -1.515
+TNS   : -1.515
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -1.502
+TNS   : -9.012
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : -1.476
+TNS   : -11.732
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : -1.433
+TNS   : -1.433
+
+Type  : Fast Model Recovery '74594:inst16|10'
+Slack : -1.425
+TNS   : -1.425
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : -1.416
+TNS   : -2.464
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -1.360
+TNS   : -1.360
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -1.263
+TNS   : -15.344
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -1.203
+TNS   : -1.203
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -1.188
+TNS   : -29.806
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -1.151
+TNS   : -1.151
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -1.048
+TNS   : -1.048
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -1.028
+TNS   : -3.369
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : -0.960
+TNS   : -1.689
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -0.954
+TNS   : -2.184
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.867
+TNS   : -13.978
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst99|inst71~1'
+Slack : -0.851
+TNS   : -0.851
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : -0.816
+TNS   : -1.269
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.811
+TNS   : -0.811
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -0.802
+TNS   : -4.117
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.798
+TNS   : -14.092
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst96|inst71~1'
+Slack : -0.773
+TNS   : -0.773
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : -0.754
+TNS   : -1.497
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.746
+TNS   : -0.746
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : -0.710
+TNS   : -0.710
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -0.704
+TNS   : -0.704
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst98|inst71~1'
+Slack : -0.678
+TNS   : -0.678
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -0.671
+TNS   : -2.448
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.638
+TNS   : -0.638
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.628
+TNS   : -1.245
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.562
+TNS   : -9.646
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.534
+TNS   : -7.592
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.494
+TNS   : -7.816
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -0.492
+TNS   : -1.003
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.485
+TNS   : -8.538
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -0.474
+TNS   : -1.348
+
+Type  : Fast Model Recovery 'count64_2018:inst50|31'
+Slack : -0.460
+TNS   : -0.764
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -0.447
+TNS   : -2.235
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : -0.433
+TNS   : -0.433
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -0.406
+TNS   : -0.406
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -0.368
+TNS   : -0.717
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -0.350
+TNS   : -4.410
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst97|inst71~1'
+Slack : -0.346
+TNS   : -0.346
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : -0.319
+TNS   : -0.319
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -0.293
+TNS   : -0.293
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : -0.222
+TNS   : -0.222
+
+Type  : Fast Model Recovery 'count64_2018:inst50|32'
+Slack : -0.209
+TNS   : -0.209
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -0.179
+TNS   : -0.179
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : -0.163
+TNS   : -0.234
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -0.150
+TNS   : -0.297
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : -0.106
+TNS   : -0.106
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -0.098
+TNS   : -0.098
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -0.065
+TNS   : -0.616
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.052
+TNS   : -0.052
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : 0.232
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'PUSK_W'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'count64_2018:inst50|59'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'L0'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'L2'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'oune1f:inst44|2'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : 0.431
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : 0.477
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.484
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.508
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'RESETA'
+Slack : 0.508
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : 0.553
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : 0.555
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.560
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.588
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : 0.610
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.610
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : 0.620
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : 0.625
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : 0.629
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : 0.635
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : 0.649
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'oune1f:inst48|2'
+Slack : 0.663
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : 0.706
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : 0.723
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : 0.744
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.798
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'inst3|altpll_component|pll|clk[2]'
+Slack : 3.051
+TNS   : 0.000
+
+Type  : Fast Model Removal 'RESETA'
+Slack : -2.343
+TNS   : -8.208
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -1.996
+TNS   : -26.574
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -1.404
+TNS   : -123.291
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -1.167
+TNS   : -251.761
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -1.072
+TNS   : -8.038
+
+Type  : Fast Model Removal 'PUSK_W'
+Slack : -1.006
+TNS   : -2.371
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -0.939
+TNS   : -15.389
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -0.808
+TNS   : -1.469
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -0.765
+TNS   : -4.440
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -0.538
+TNS   : -1.508
+
+Type  : Fast Model Removal 'inst3|altpll_component|pll|clk[0]'
+Slack : -0.528
+TNS   : -25.651
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -0.497
+TNS   : -0.497
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : -0.482
+TNS   : -0.482
+
+Type  : Fast Model Removal 'oune1f:inst48|2'
+Slack : -0.481
+TNS   : -1.430
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.418
+TNS   : -0.418
+
+Type  : Fast Model Removal 'count64_2018:inst50|32'
+Slack : -0.399
+TNS   : -0.399
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -0.369
+TNS   : -0.746
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : -0.364
+TNS   : -0.364
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -0.358
+TNS   : -0.358
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.333
+TNS   : -1.665
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : -0.315
+TNS   : -0.490
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -0.286
+TNS   : -0.286
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : -0.269
+TNS   : -0.269
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.262
+TNS   : -0.262
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.255
+TNS   : -0.255
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : -0.249
+TNS   : -0.249
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.246
+TNS   : -0.246
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : -0.245
+TNS   : -0.245
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : -0.240
+TNS   : -0.240
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -0.234
+TNS   : -2.801
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -0.234
+TNS   : -0.234
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : -0.230
+TNS   : -0.230
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.230
+TNS   : -0.230
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : -0.218
+TNS   : -0.218
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -0.216
+TNS   : -0.599
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.208
+TNS   : -0.208
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -0.197
+TNS   : -0.197
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.180
+TNS   : -0.180
+
+Type  : Fast Model Removal 'oune1f:inst44|2'
+Slack : -0.178
+TNS   : -0.178
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.174
+TNS   : -0.174
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : -0.173
+TNS   : -0.173
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.169
+TNS   : -0.169
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -0.151
+TNS   : -0.906
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : -0.139
+TNS   : -0.139
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.137
+TNS   : -0.137
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.128
+TNS   : -0.128
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.127
+TNS   : -0.127
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : -0.126
+TNS   : -0.126
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -0.111
+TNS   : -1.505
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.104
+TNS   : -0.104
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -0.094
+TNS   : -0.094
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.084
+TNS   : -0.084
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -0.077
+TNS   : -0.077
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -0.039
+TNS   : -0.039
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : -0.032
+TNS   : -0.032
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : -0.027
+TNS   : -0.027
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -0.023
+TNS   : -0.345
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : -0.015
+TNS   : -0.015
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : -0.015
+TNS   : -0.015
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : -0.013
+TNS   : -0.013
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Fast Model Removal 'L0'
+Slack : -0.008
+TNS   : -0.032
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast Model Removal 'L2'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : 0.017
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : 0.025
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : 0.056
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : 0.078
+TNS   : 0.000
+
+Type  : Fast Model Removal 'count64_2018:inst50|31'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst97|inst71~1'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast Model Removal 'count64_2018:inst50|59'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst98|inst71~1'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.302
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst96|inst71~1'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst99|inst71~1'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Fast Model Removal '74594:inst16|10'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : 0.486
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : 0.574
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : 0.612
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : 0.629
+TNS   : 0.000
+
+Type  : Fast Model Removal 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : 0.699
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : 0.827
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : 0.833
+TNS   : 0.000
+
+Type  : Fast Model Removal 'inst3|altpll_component|pll|clk[2]'
+Slack : 0.905
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : 1.090
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : 1.102
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : 1.192
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : 1.240
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : 1.296
+TNS   : 0.000
+
+Type  : Fast Model Removal 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : 1.313
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : 1.401
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : 2.313
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : 2.511
+TNS   : 0.000
+
+Type  : Fast Model Removal 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : 2.595
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count10djon13okt:inst7|1'
+Slack : -1.880
+TNS   : -1130.720
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst65|2'
+Slack : -1.880
+TNS   : -406.040
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst68|2'
+Slack : -1.880
+TNS   : -406.040
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst71|2'
+Slack : -1.880
+TNS   : -406.040
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst73|2'
+Slack : -1.880
+TNS   : -406.040
+
+Type  : Fast Model Minimum Pulse Width 'L0'
+Slack : -1.222
+TNS   : -17.222
+
+Type  : Fast Model Minimum Pulse Width 'L2'
+Slack : -1.222
+TNS   : -17.222
+
+Type  : Fast Model Minimum Pulse Width 'RESETA'
+Slack : -1.222
+TNS   : -8.222
+
+Type  : Fast Model Minimum Pulse Width 'PUSK_W'
+Slack : -1.222
+TNS   : -6.222
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|inst5'
+Slack : -0.687
+TNS   : -6.748
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|inst36'
+Slack : -0.500
+TNS   : -1238.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|rasshiritel2mart:765|10'
+Slack : -0.500
+TNS   : -307.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|30'
+Slack : -0.500
+TNS   : -69.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|count5_9des:6|3'
+Slack : -0.500
+TNS   : -38.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -18.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -18.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -18.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_shiftreg3:inst89|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -18.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst64|2'
+Slack : -0.500
+TNS   : -17.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst69|2'
+Slack : -0.500
+TNS   : -17.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst70|2'
+Slack : -0.500
+TNS   : -17.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|oune1f:inst72|2'
+Slack : -0.500
+TNS   : -17.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|freqdiv:inst4|24'
+Slack : -0.500
+TNS   : -16.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|count5_9des:207|3'
+Slack : -0.500
+TNS   : -14.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|31'
+Slack : -0.500
+TNS   : -13.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|31'
+Slack : -0.500
+TNS   : -12.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|419'
+Slack : -0.500
+TNS   : -10.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|inst14'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:200|2'
+Slack : -0.500
+TNS   : -9.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst23|2'
+Slack : -0.500
+TNS   : -7.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count8new10sept:inst|30'
+Slack : -0.500
+TNS   : -7.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst18|2'
+Slack : -0.500
+TNS   : -7.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|105'
+Slack : -0.500
+TNS   : -7.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst8'
+Slack : -0.500
+TNS   : -6.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|77'
+Slack : -0.500
+TNS   : -6.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|116'
+Slack : -0.500
+TNS   : -5.000
+
+Type  : Fast Model Minimum Pulse Width 'oune1f:inst48|2'
+Slack : -0.500
+TNS   : -4.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|116'
+Slack : -0.500
+TNS   : -4.000
+
+Type  : Fast Model Minimum Pulse Width 'count64_2018:inst50|31'
+Slack : -0.500
+TNS   : -3.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|count8new10sept:inst6|30'
+Slack : -0.500
+TNS   : -3.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|count64n:735|count8new10sept:2|32'
+Slack : -0.500
+TNS   : -3.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst2|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|oune1f:inst2|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst16|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|10'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|32'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst13'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|inst5'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'count64_2018:inst50|32'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'oune1f:inst44|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|117'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|af8okt13now:169|count6djon2:96|16'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|oune1f:138|2'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|reqvest13oktt:150|count10djon13okt:108|16'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|count64n:735|count8new10sept:1|30'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|lpm_compare5:inst|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width '74594:inst16|10'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst96|inst71~1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst96|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst97|inst71~1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst97|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst98|inst71~1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst98|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst99|inst71~1'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_compare29:inst75|lpm_compare:LPM_COMPARE_component|cmpr_t6l:auto_generated|agb_dffe[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'Block_Synchro_Data:inst99|lpm_shiftreg4:inst95|lpm_shiftreg:LPM_SHIFTREG_component|dffs[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst3'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|inst5'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|lpm_compare8:inst|lpm_compare:lpm_compare_component|cmpr_kvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count1239_2018:inst27|oune1f:inst2|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|inst5'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|lpm_compare19:inst3|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count18_out18:inst32|oune1f:inst2|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|inst5'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|lpm_compare18:inst21|lpm_compare:lpm_compare_component|cmpr_8uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count64_out19:inst31|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|count8new10sept:inst3|31'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|inst5'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|count_N_6DES:inst5|lpm_compare17:inst4|lpm_compare:LPM_COMPARE_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|BLOK18_19_8DES:inst1|lpm_compare20:inst36|lpm_compare:lpm_compare_component|cmpr_6uk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|data32_29sept_internal:inst8|oune1f:inst13|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|rasshiritel2mart:inst54|count10djon13okt:108|16'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|count64_2018:inst4|59'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst22'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|inst7'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst19|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|oune1f:inst27|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|lpm_compare24:inst4|lpm_compare:LPM_COMPARE_component|cmpr_lvk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'blok_DATA_CDI_9des:inst10|upradcCDI64500_5des2:inst3|zader450_25jen:inst14|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'count64_2018:inst50|59'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|175'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare21:inst12|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|lpm_compare22:inst18|lpm_compare:LPM_COMPARE_component|cmpr_ivk:auto_generated|aeb_output_dffe0a[0]'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst13|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|192new2018:inst1|oune1f:inst17|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|header5okt_2016:253|76'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:183|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:199|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'prog256DES1_2018:inst|proba256_10novugolev:inst2|vdether10novugolev:inst|oune1f:inst|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|count8new10sept:inst3|31'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|count40000:inst|oune1f:inst1|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:322|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|oune1f:378|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|pusk5:311|oune1f:10|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|rasshiritel2mart:421|count10djon13okt:108|16'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:51|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|program3128NOV28:inst|strob3feb:inst1|oune1f:53|2'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'program_low235aug3128:inst14|rasshiritel2mart:765|count10djon13okt:108|16'
+Slack : -0.500
+TNS   : -1.000
+
+Type  : Fast Model Minimum Pulse Width 'inst3|altpll_component|pll|clk[2]'
+Slack : 1.083
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'inst3|altpll_component|pll|clk[0]'
+Slack : 5.250
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width '16meg_IN'
+Slack : 31.250
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,223 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II 64-Bit
+# Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# Date created = 15:11:25  March 28, 2019
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		program_CU_2018_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+
+# Project-Wide Assignments
+# ========================
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 8.1
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "19:29:33  NOVEMBER 06, 2018"
+set_global_assignment -name LAST_QUARTUS_VERSION "13.0 SP1"
+
+# Pin & Location Assignments
+# ==========================
+set_location_assignment PIN_88 -to W_R
+set_location_assignment PIN_87 -to IOR_MK
+set_location_assignment PIN_86 -to IOW_MK
+set_location_assignment PIN_31 -to SINH
+set_location_assignment PIN_32 -to RESETA
+set_location_assignment PIN_41 -to STOP
+set_location_assignment PIN_43 -to PUSK_W
+set_location_assignment PIN_58 -to DX7
+set_location_assignment PIN_59 -to DX6
+set_location_assignment PIN_60 -to DX5
+set_location_assignment PIN_63 -to DX4
+set_location_assignment PIN_64 -to DX3
+set_location_assignment PIN_65 -to DX2
+set_location_assignment PIN_67 -to DX1
+set_location_assignment PIN_69 -to DX0
+set_location_assignment PIN_71 -to AEN
+set_location_assignment PIN_72 -to IO16
+set_location_assignment PIN_73 -to IOWAIT
+set_location_assignment PIN_94 -to DJ7
+set_location_assignment PIN_96 -to DJ5
+set_location_assignment PIN_97 -to DJ3
+set_location_assignment PIN_99 -to DJ1
+set_location_assignment PIN_100 -to IOW
+set_location_assignment PIN_101 -to SD
+set_location_assignment PIN_103 -to INT
+set_location_assignment PIN_112 -to K8
+set_location_assignment PIN_113 -to K7
+set_location_assignment PIN_114 -to K6
+set_location_assignment PIN_118 -to INTGEN
+set_location_assignment PIN_120 -to EXTGEN
+set_location_assignment PIN_125 -to K4
+set_location_assignment PIN_126 -to K3
+set_location_assignment PIN_129 -to K2
+set_location_assignment PIN_132 -to K1
+set_location_assignment PIN_80 -to AVR_DIN
+set_location_assignment PIN_81 -to A_D
+set_location_assignment PIN_17 -to 16MEG_IN
+set_location_assignment PIN_25 -to DATA2
+set_location_assignment PIN_26 -to DATA3
+set_location_assignment PIN_136 -to DATA1
+set_location_assignment PIN_55 -to L7
+set_location_assignment PIN_44 -to L0
+set_location_assignment PIN_45 -to L1
+set_location_assignment PIN_47 -to L2
+set_location_assignment PIN_51 -to L4
+set_location_assignment PIN_52 -to L5
+set_location_assignment PIN_53 -to L6
+set_location_assignment PIN_70 -to CMD
+set_location_assignment PIN_74 -to DJ0
+set_location_assignment PIN_75 -to DJ2
+set_location_assignment PIN_76 -to DJ4
+set_location_assignment PIN_79 -to DJ6
+set_location_assignment PIN_104 -to IOR
+set_location_assignment PIN_135 -to RESETB
+set_location_assignment PIN_141 -to 40MEG
+set_location_assignment PIN_144 -to ST_CONV
+set_location_assignment PIN_48 -to L3
+set_location_assignment PIN_143 -to ST_TRANS_
+
+# Classic Timing Assignments
+# ==========================
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+
+# Analysis & Synthesis Assignments
+# ================================
+set_global_assignment -name FAMILY "Cyclone II"
+set_global_assignment -name TOP_LEVEL_ENTITY program_CU_2018
+
+# Fitter Assignments
+# ==================
+set_global_assignment -name DEVICE EP2C5T144C8
+set_global_assignment -name CYCLONEII_RESERVE_NCEO_AFTER_CONFIGURATION "USE AS REGULAR IO"
+set_global_assignment -name RESERVE_ASDO_AFTER_CONFIGURATION "AS INPUT TRI-STATED"
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+
+# start EDA_TOOL_SETTINGS(eda_blast_fpga)
+# ---------------------------------------
+
+	# Analysis & Synthesis Assignments
+	# ================================
+set_global_assignment -name USE_GENERATED_PHYSICAL_CONSTRAINTS OFF -section_id eda_blast_fpga
+
+# end EDA_TOOL_SETTINGS(eda_blast_fpga)
+# -------------------------------------
+
+# -----------------------------
+# start ENTITY(program_CU_2018)
+
+	# start LOGICLOCK_REGION(Root Region)
+	# -----------------------------------
+
+		# LogicLock Region Assignments
+		# ============================
+
+	# end LOGICLOCK_REGION(Root Region)
+	# ---------------------------------
+
+	# start DESIGN_PARTITION(Top)
+	# ---------------------------
+
+		# Incremental Compilation Assignments
+		# ===================================
+
+	# end DESIGN_PARTITION(Top)
+	# -------------------------
+
+# end ENTITY(program_CU_2018)
+# ---------------------------
+set_location_assignment PIN_115 -to K9
+set_location_assignment PIN_27 -to DATA4
+set_global_assignment -name BDF_FILE program_CU_2018.bdf
+set_global_assignment -name BDF_FILE program2_CU_2018.bdf
+set_global_assignment -name QIP_FILE lpm_compare11.qip
+set_global_assignment -name BDF_FILE proba_2des.bdf
+set_global_assignment -name BDF_FILE count65.bdf
+set_global_assignment -name QIP_FILE lpm_compare12.qip
+set_global_assignment -name BDF_FILE zaderN2_5des.bdf
+set_global_assignment -name QIP_FILE lpm_compare16.qip
+set_global_assignment -name BDF_FILE raspred2_19des.bdf
+set_global_assignment -name BDF_FILE ../../CU_CDI64500_11DES2018/CU29okt_2018/raspred2_19nov2018.bdf
+set_global_assignment -name QIP_FILE lpm_compare21.qip
+set_global_assignment -name QIP_FILE lpm_compare23.qip
+set_global_assignment -name QIP_FILE lpm_compare24.qip
+set_global_assignment -name CDF_FILE ../../AAA/output_files/Chain2.cdf
+set_global_assignment -name VECTOR_WAVEFORM_FILE program_CU_2018.vwf
+set_global_assignment -name QIP_FILE my_fifo18.qip
+set_global_assignment -name QIP_FILE lpm_counter4.qip
+set_global_assignment -name QIP_FILE lpm_counter5.qip
+set_global_assignment -name QIP_FILE lpm_counter6.qip
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name SYNTH_TIMING_DRIVEN_SYNTHESIS OFF
+set_global_assignment -name QIP_FILE lpm_compare0.qip
+set_global_assignment -name QIP_FILE lpm_compare2.qip
+set_global_assignment -name QIP_FILE lpm_compare3.qip
+set_global_assignment -name QIP_FILE lpm_compare4.qip
+set_global_assignment -name QIP_FILE lpm_compare6.qip
+set_global_assignment -name QIP_FILE lpm_compare7.qip
+set_global_assignment -name QIP_FILE lpm_compare9.qip
+set_global_assignment -name QIP_FILE lpm_compare10.qip
+set_global_assignment -name QIP_FILE lpm_compare13.qip
+set_global_assignment -name QIP_FILE lpm_counter1.qip
+set_global_assignment -name QIP_FILE lpm_compare14.qip
+set_global_assignment -name QIP_FILE lpm_counter2.qip
+set_global_assignment -name QIP_FILE lpm_compare15.qip
+set_global_assignment -name QIP_FILE lpm_counter7.qip
+set_global_assignment -name QIP_FILE lpm_compare26.qip
+set_global_assignment -name QIP_FILE lpm_shiftreg0.qip
+set_global_assignment -name QIP_FILE lpm_constant0.qip
+set_global_assignment -name QIP_FILE lpm_constant1.qip
+set_global_assignment -name QIP_FILE lpm_constant2.qip
+set_global_assignment -name QIP_FILE lpm_shiftreg1.qip
+set_global_assignment -name QIP_FILE lpm_shiftreg2.qip
+set_global_assignment -name QIP_FILE lpm_constant3.qip
+set_global_assignment -name QIP_FILE lpm_constant4.qip
+set_global_assignment -name QIP_FILE lpm_counter8.qip
+set_global_assignment -name QIP_FILE lpm_compare27.qip
+set_global_assignment -name QIP_FILE lpm_counter9.qip
+set_global_assignment -name QIP_FILE lpm_compare28.qip
+set_global_assignment -name QIP_FILE lpm_counter10.qip
+set_global_assignment -name QIP_FILE lpm_compare29.qip
+set_global_assignment -name QIP_FILE lpm_shiftreg3.qip
+set_global_assignment -name QIP_FILE lpm_shiftreg4.qip
+set_global_assignment -name BDF_FILE Block_Synchro_Data.bdf
+set_global_assignment -name BDF_FILE 12CU16bitcdi/romugolev2.bdf
+set_global_assignment -name LL_ROOT_REGION ON -section_id "Root Region"
+set_global_assignment -name LL_MEMBER_STATE LOCKED -section_id "Root Region"
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name QIP_FILE lpm_compare30.qip
+set_global_assignment -name QIP_FILE lpm_compare31.qip
+set_global_assignment -name QIP_FILE lpm_compare32.qip
+set_global_assignment -name QIP_FILE lpm_compare33.qip
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

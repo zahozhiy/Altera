@@ -1,0 +1,181 @@
+Restore Archived Project report for program_CU_2018
+Tue Jan 12 14:20:38 2021
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Jan 12 14:20:38 2021 ;
+; Revision Name                   ; program_CU_2018                       ;
+; Top-level Entity Name           ; program_CU_2018                       ;
+; Family                          ; Cyclone II                            ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'E:/7CU16bitcdi/CU29okt_2018/program_CU_2018_tmp_archive.qar' into the 'E:/12CU16bitcdi' directory
+Info: Generated report 'program_CU_2018.restore.rpt'
+
+
++------------------------------------------------------------+
+; Files Restored                                             ;
++------------------------------------------------------------+
+; File Name                                                  ;
++------------------------------------------------------------+
+; 192new2018.bdf                                             ;
+; BLOK18_19_8DES.bdf                                         ;
+; BLOK_START.bdf                                             ;
+; BlockData_1Des.bdf                                         ;
+; af8okt13now.bdf                                            ;
+; altpll0.tdf                                                ;
+; ap6.bdf                                                    ;
+; blok_DATA_CDI_9des.bdf                                     ;
+; buf18_29nov.bdf                                            ;
+; count10djon13okt.bdf                                       ;
+; count1239_2018.bdf                                         ;
+; count16_8DES.bdf                                           ;
+; count18_out18.bdf                                          ;
+; count40000.bdf                                             ;
+; count5_9des.bdf                                            ;
+; count64_2018.bdf                                           ;
+; count64_out19.bdf                                          ;
+; count64n.bdf                                               ;
+; count65.bdf                                                ;
+; count6djon2.bdf                                            ;
+; count8new10sept.bdf                                        ;
+; count_N_6DES.bdf                                           ;
+; data32_29sept_internal.bdf                                 ;
+; data8_28sep.bdf                                            ;
+; data8_31aug.bdf                                            ;
+; data8_31aug2.bdf                                           ;
+; data8_31aug3.bdf                                           ;
+; data8_31aug4.bdf                                           ;
+; header5okt_2016.bdf                                        ;
+; incremental_db/compiled_partitions/program_CU_2018.db_info ;
+; lpm_compare1.tdf                                           ;
+; lpm_compare11.bsf                                          ;
+; lpm_compare11.inc                                          ;
+; lpm_compare11.qip                                          ;
+; lpm_compare11.tdf                                          ;
+; lpm_compare12.bsf                                          ;
+; lpm_compare12.inc                                          ;
+; lpm_compare12.qip                                          ;
+; lpm_compare12.tdf                                          ;
+; lpm_compare16.bsf                                          ;
+; lpm_compare16.inc                                          ;
+; lpm_compare16.qip                                          ;
+; lpm_compare16.tdf                                          ;
+; lpm_compare17.tdf                                          ;
+; lpm_compare18.tdf                                          ;
+; lpm_compare19.tdf                                          ;
+; lpm_compare20.tdf                                          ;
+; lpm_compare21.bsf                                          ;
+; lpm_compare21.inc                                          ;
+; lpm_compare21.qip                                          ;
+; lpm_compare21.tdf                                          ;
+; lpm_compare22.tdf                                          ;
+; lpm_compare23.bsf                                          ;
+; lpm_compare23.inc                                          ;
+; lpm_compare23.qip                                          ;
+; lpm_compare23.tdf                                          ;
+; lpm_compare23_inst.tdf                                     ;
+; lpm_compare24.bsf                                          ;
+; lpm_compare24.inc                                          ;
+; lpm_compare24.qip                                          ;
+; lpm_compare24.tdf                                          ;
+; lpm_compare24_inst.tdf                                     ;
+; lpm_compare25.tdf                                          ;
+; lpm_compare5.tdf                                           ;
+; lpm_compare8.tdf                                           ;
+; lpm_counter0.tdf                                           ;
+; lpm_counter3.tdf                                           ;
+; lpm_counter4.bsf                                           ;
+; lpm_counter4.cmp                                           ;
+; lpm_counter4.qip                                           ;
+; lpm_counter4.vhd                                           ;
+; lpm_counter5.bsf                                           ;
+; lpm_counter5.cmp                                           ;
+; lpm_counter5.qip                                           ;
+; lpm_counter5.vhd                                           ;
+; lpm_counter6.bsf                                           ;
+; lpm_counter6.inc                                           ;
+; lpm_counter6.qip                                           ;
+; lpm_counter6.tdf                                           ;
+; mx8.bdf                                                    ;
+; my_fifo18.bsf                                              ;
+; my_fifo18.cmp                                              ;
+; my_fifo18.qip                                              ;
+; my_fifo18.vhd                                              ;
+; oune1f.bdf                                                 ;
+; proba256_10novugolev.bdf                                   ;
+; proba_2des.bdf                                             ;
+; prog256DES1_2018.bdf                                       ;
+; program2_CU_2018.bdf                                       ;
+; program3128NOV28.bdf                                       ;
+; program_CU_2018.bdf                                        ;
+; program_CU_2018.qpf                                        ;
+; program_CU_2018.qsf                                        ;
+; program_CU_2018.vwf                                        ;
+; program_CU_2018_assignment_defaults.qdf                    ;
+; program_low235aug3128.bdf                                  ;
+; pusk5.bdf                                                  ;
+; pusk6des.bdf                                               ;
+; r_s2.bdf                                                   ;
+; raspred2_19des.bdf                                         ;
+; rasshiritel2mart.bdf                                       ;
+; reg4k2.bdf                                                 ;
+; reqvest13oktt.bdf                                          ;
+; rg18ALL_27DES.bdf                                          ;
+; rgandsum27des.bdf                                          ;
+; romugolev2.bdf                                             ;
+; shift18_par18.bdf                                          ;
+; strob3feb.bdf                                              ;
+; summa17june27des.bdf                                       ;
+; upradcCDI64500_5des2.bdf                                   ;
+; vdether10novugolev.bdf                                     ;
+; zader450_25jen.bdf                                         ;
+; zaderN2_5des.bdf                                           ;
+; AAA/output_files/Chain2.cdf                                ;
++------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
